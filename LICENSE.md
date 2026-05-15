@@ -1,4 +1,4 @@
-# 
+# vip Polymarket Utility | prediction-market-scanning + liquidity-provision is the best Polymarket utility, featuring prediction-market-scanning and liquidity-provision. Smart,
 
 
 
